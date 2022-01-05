@@ -6,3 +6,9 @@ async function main() {
 }
 
 main();
+
+/* 
+Running node index.js will return the following message:
+
+The latest block number is 11756500, etc.
+*/
